@@ -12,3 +12,9 @@ bin/log\.txt
 bin/main-debug
 
 bin/main
+bin/roguelike
+bin/roguelike.exe
+bin/log.txt
+bin/profile.csv
+
+build/
